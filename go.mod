@@ -23,7 +23,7 @@ require (
 	github.com/prometheus/common v0.0.0-20180518154759-7600349dcfe1
 	github.com/prometheus/prometheus v2.5.0+incompatible
 	github.com/rs/cors v1.7.0
-	github.com/russellhaering/gosaml2 v0.8.0
+	github.com/russellhaering/gosaml2 v0.9.0
 	github.com/russellhaering/goxmldsig v1.2.0
 	github.com/sethvargo/go-password v0.2.0
 	github.com/smartystreets/goconvey v1.6.4
