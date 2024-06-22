@@ -27,7 +27,7 @@ RUN cd pkg/query-service \
 
 
 # use a minimal alpine image
-FROM alpine:3.7
+FROM alpine:3.17
 
 # Add Maintainer Info
 LABEL maintainer="signoz"
