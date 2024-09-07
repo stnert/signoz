@@ -22,7 +22,7 @@ RUN cd ee/query-service \
 
 
 # use a minimal alpine image
-FROM alpine:3.7
+FROM alpine:3.19.4
 
 # Add Maintainer Info
 LABEL maintainer="signoz"
